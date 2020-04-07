@@ -4,7 +4,7 @@ endif
 
 let g:buffet_loaded = 1
 
-let g:buffet_always_show_tabline = get(g:, "buffet_always_show_tabline", 1)
+let g:buffet_always_show_tabline = get(g:, "buffet_always_show_tabline", 0)
 
 let g:buffet_use_devicons = get(g:,"buffet_use_devicons",0)
 
