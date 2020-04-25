@@ -39,11 +39,11 @@ if !exists("g:buffet_modified_icon")
 endif
 
 if !exists("g:buffet_left_trunc_icon")
-    let g:buffet_left_trunc_icon = "<"
+    let g:buffet_left_trunc_icon = "\uf0a8"
 endif
 
 if !exists("g:buffet_right_trunc_icon")
-    let g:buffet_right_trunc_icon = ">"
+    let g:buffet_right_trunc_icon = "\uf0a9"
 endif
 
 if !exists("g:buffet_new_buffer_name")
