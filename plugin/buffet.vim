@@ -156,7 +156,7 @@ function! s:SetColors()
 
     hi! BuffetCurrentBuffer cterm=NONE ctermbg=106 ctermfg=8 guibg=#b8bb26 guifg=#000000
     hi! BuffetTrunc cterm=bold ctermbg=10 ctermfg=8 guibg=##999999 guifg=#000000
-    hi! BuffetTab cterm=NONE ctermbg=66 ctermfg=8 guibg=#458588 guifg=#000000
+    hi! BuffetTab cterm=NONE ctermbg=203 ctermfg=8 guibg=#FF5555 guifg=#000000
     hi! BuffetActiveBuffer cterm=NONE ctermbg=10 ctermfg=239 guibg=#504945 guifg=#000000
     hi! BuffetBuffer cterm=NONE  ctermfg=10 guibg=buffermidcolor guifg=#504945
 
